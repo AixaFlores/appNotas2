@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "completar Pg",
+    "estado": "finalizado"
+  },
+  {
+    "titulo": "repasar JS",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "hacer los tps",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "nueva tarea",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "otra tarea",
+    "estado": "pendiente"
+  }
+]
